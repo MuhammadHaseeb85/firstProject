@@ -1,0 +1,64 @@
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\App.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\MainPage.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.xr.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.exe
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.pdb
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\resources.pri
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\AppxManifest.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.build.appxrecipe
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.g.i.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.g.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.g.i.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.g.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.xaml
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\XamlSaveStateFile.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.xaml
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\Calculator.exe
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\Calculator.pdb
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\priconfig.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\priconfig.xml.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\layout.resfiles
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\layout.resfiles.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\resources.resfiles
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\resources.resfiles.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\pri.resfiles
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\pri.resfiles.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\qualifiers.txt
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\asp.APTECHNK\Desktop\C# Windiws Store App\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\ProjectArchitectures.txt
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\App.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\MainPage.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.xr.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.exe
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.pdb
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\resources.pri
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\AppxManifest.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\bin\Debug\Calculator.build.appxrecipe
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.g.i.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.g.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.g.i.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.g.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.xaml
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.xaml
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\App.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MainPage.xbf
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\XamlSaveStateFile.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\Calculator.exe
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\Calculator.pdb
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\priconfig.xml
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\priconfig.xml.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\layout.resfiles
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\layout.resfiles.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\resources.resfiles
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\resources.resfiles.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\pri.resfiles
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\pri.resfiles.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\qualifiers.txt
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 (Lecture 1)\App1_Demo\Calculator\obj\Debug\ProjectArchitectures.txt

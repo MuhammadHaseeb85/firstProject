@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="Calculator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Calculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="Txt1" Height="100" Header="Output" RenderTransformOrigin="0.547,-2.151" Margin="568,96,340,572"/>
+        <Button x:ConnectionId='1' x:Name="Btn1" Width="100" Height="90" Margin="565,244,0,434" Content="1" FontSize="30"                     />
+        <Button x:ConnectionId='2' x:Name="Btn2" Width="100" Height="90" Margin="685,244,0,434" Content="2" FontSize="30"                   />
+        <Button x:ConnectionId='3' x:Name="Btn3" Width="100" Height="90" Margin="805,244,0,434" Content="3" FontSize="30"                   />
+        <Button x:ConnectionId='4' x:Name="Btn4" Width="100" Height="90" Margin="565,380,0,298" Content="4" FontSize="30"                       />
+        <Button x:ConnectionId='5' x:Name="Btn5" Width="100" Height="90" Margin="685,380,0,298" Content="5" FontSize="30"                   />
+        <Button x:ConnectionId='6' x:Name="Btn6" Width="100" Height="90" Margin="805,380,0,298" Content="6" FontSize="30"                   />
+        <Button x:ConnectionId='7' x:Name="Btn7" Width="100" Height="90" Margin="565,512,0,166" Content="7" FontSize="30"                   />
+        <Button x:ConnectionId='8' x:Name="Btn8" Width="100" Height="90" Margin="685,512,0,166" Content="8" FontSize="30"                   />
+        <Button x:ConnectionId='9' x:Name="Btn9" Width="100" Height="90" Margin="805,512,0,166" Content="9" FontSize="30"                   />
+        <Button x:ConnectionId='10' x:Name="Btn0" Width="270" Height="90" Margin="565,640,0,38" Content="0" FontSize="30"                   />
+        <Button x:ConnectionId='11' x:Name="BtnAdd" Width="100" Height="90" Margin="929,244,0,434" Content="+" FontSize="30"                     />
+        <Button x:ConnectionId='12' x:Name="BtnSub" Width="100" Height="90" Margin="929,380,0,298" Content="-" FontSize="30"                     />
+        <Button x:ConnectionId='13' x:Name="BtnMul" Width="100" Height="90" Margin="929,512,0,166" Content="*" FontSize="30"                     />
+        <Button x:ConnectionId='14' x:Name="BtnDiv" Width="100" Height="90" Margin="929,622,0,56" Content="/" FontSize="30"                     />
+        <Button x:ConnectionId='15' x:Name="BtnMod" Width="100" Height="90" Margin="1057,622,0,56" Content="%" FontSize="30"                     />
+        <Button x:ConnectionId='16' x:Name="BtnCancel" Width="100" Height="90" Margin="1057,512,0,166" Content="C" FontSize="30" Foreground="Red"                        />
+        <Button x:ConnectionId='17' Width="100" Height="90" Margin="1057,380,0,298" Content="=" FontSize="30"                       />
+
+
+
+
+    </Grid>
+</Page>
+

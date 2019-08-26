@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="App1_Demo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1_Demo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="Txt1" Height="50" Header="Outout" Margin="363,326,782,392"/>
+        <TextBox x:Name="Txt2" Height="50" Header="Outout" Margin="638,326,507,392"/>
+        <Button x:ConnectionId='1' x:Name="BtnSubmit" Content="Button" HorizontalAlignment="Left" Margin="561,469,0,0" VerticalAlignment="Top"                      RenderTransformOrigin="-0.212,2.211"/>
+
+    </Grid>
+</Page>
+

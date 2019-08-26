@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB07-184</Machine>
+    <WindowsUser>asp</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>61df84ea-8bea-47d4-b0de-ac27f8ee2df9</PackageIdentityName>
+    <PackageIdentityPublisher>CN=asp</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>2057AE99BC9D3ED6A440BAD556F9340729DBA50961002C3474E8F7B32FB502D8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>61df84ea-8bea-47d4-b0de-ac27f8ee2df9_1.0.0.0_neutral__79ejfqzfbtfcm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>61df84ea-8bea-47d4-b0de-ac27f8ee2df9_79ejfqzfbtfcm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>61df84ea-8bea-47d4-b0de-ac27f8ee2df9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-21T15:53:55.394</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\bin\Debug\Calculator.exe">
+      <PackagePath>Calculator.exe</PackagePath>
+      <Modified>2019-08-23T14:53:32.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\bin\Debug\Calculator.xr.xml">
+      <PackagePath>Calculator.xr.xml</PackagePath>
+      <Modified>2019-08-21T15:53:54.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-08-21T15:53:54.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-08-21T15:53:54.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp.APTECHNK\Desktop\C# Windows Store App 21-08-2019 %28Lecture 1%29\App1_Demo\Calculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-08-21T15:53:55.163</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
